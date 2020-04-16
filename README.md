@@ -1,1 +1,0 @@
-# sd-0x-block11-project-jest-tests
