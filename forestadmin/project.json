@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "sd-0x-block11-project-jest",
+    "name": "betrybe/sd-0x-block11-project-jest",
     "description": "Projeto de Jest Assíncrono e Mocking",
     "enabled": true,
-    "deadline": "YYYY-MM-DD 17:10:00",
+    "deadline": "2020-04-17 17:10:00",
     "requirements": [
       {
         "description": "Jest Assíncrono",
