@@ -1,0 +1,30 @@
+{
+  "project": {
+    "name": "sd-0x-block11-project-jest",
+    "description": "Projeto de Jest Assíncrono e Mocking",
+    "enabled": true,
+    "deadline": "YYYY-MM-DD 17:10:00",
+    "requirements": [
+      {
+        "description": "Jest Assíncrono",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Mock Functions",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Mock APIs",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Setup and Teardown",
+        "enabled": true,
+        "bonus": false
+      }
+    ]
+  }
+}
